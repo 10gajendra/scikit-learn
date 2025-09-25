@@ -23,3 +23,9 @@ The goal is to practice text preprocessing, vectorization, training classifiers,
 ---
 
 ## Code Structure
+├── Data/
+│ └── Books_small_10000.json # Sample dataset
+├── models/
+│ └── classifier.pkl # Trained model (optional)
+├── sentiment_analysis.ipynb # Main notebook with exercises
+└── README.md
